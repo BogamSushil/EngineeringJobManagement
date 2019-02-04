@@ -6814,3 +6814,9 @@ td.visible-print {
     display: none !important;
   }
 }
+
+loginForm {
+    position: absolute;
+    right: 17%;
+    top: 30%;
+}
